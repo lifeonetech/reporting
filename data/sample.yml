@@ -1,0 +1,21 @@
+balance_sheet:
+  assets:
+    current:
+      cash_and_cash_equivalents: 50000
+      inventory: 30000
+    non_current:
+      property_plant_equipment: 200000
+  liabilities:
+    current:
+      accounts_payable: 25000
+    non_current:
+      long_term_debt: 100000
+  equity:
+    share_capital: 150000
+    retained_earnings: 50000
+income_statement:
+  revenue: 120000
+  cost_of_sales: 50000
+  operating_expenses: 20000
+  finance_costs: 5000
+  income_tax_expense: 15000
